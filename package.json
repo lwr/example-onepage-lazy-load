@@ -1,0 +1,6 @@
+{
+    "amd": {},
+    "devDependencies" : {
+        "requirejs" : "~2.1.19"
+    }
+}
